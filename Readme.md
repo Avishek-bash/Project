@@ -9,4 +9,5 @@ I have Experience coding in various languages:
 - Haskell
 - Python (pandas, matplotlib ...)
 ## I am learning Git Right now This is my first branch
-
+Suscess!!
+I am now gong to try merging using terminal
